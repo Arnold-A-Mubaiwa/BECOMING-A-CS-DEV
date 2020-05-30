@@ -63,12 +63,38 @@ namespace File_Stream {
             f6.Close ();
 
             // Writting multiple lines using TextWriter
-
             using (TextWriter f7 = File.CreateText ("textwritter.txt")) {
                 f7.WriteLine ("Hi there");
                 f7.WriteLine ("My name is Arnold");
             }
             Console.WriteLine ("Data written successfully...");
+
+            //Reading form textWriter
+            using (TextReader read = File.OpenText ("textwritter.txt")) {
+                Console.WriteLine (read.ReadLine ()); //reading one line
+                Console.WriteLine (read.ReadToEnd ()); //reading all lines
+            }
+
+            // using (BinaryWriter bWriter= new BinaryWriter(File.Open("binaryfile.dat",FileMode.Create)))
+            // {
+            //     bWriter.Write(2.95);
+            //     bWriter.Write("Arnold");
+            //     bWriter.Write(true);
+            // }
+            //   Console.WriteLine("Data written successfully..."); 
+            
+            using (BinaryReader bReader = new BinaryReader(File.Open("binaryfile.dat",FileMode.Create)))
+            {
+                try{
+                Console.WriteLine("Double Value : " + bReader.ReadDouble());  
+                Console.WriteLine("String Value : " + bReader.ReadString());  
+                Console.WriteLine("Boolean Value : " + bReader.ReadBoolean());
+                }
+                catch(Exception e){
+                    // e.Message;
+                }
+            }
+            Console.ReadKey();  
         }
     }
 }
