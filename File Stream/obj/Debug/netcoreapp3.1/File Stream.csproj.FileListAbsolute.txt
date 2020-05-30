@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/bin/Debug/netcoreapp3.1/File Stream
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/bin/Debug/netcoreapp3.1/File Stream.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/bin/Debug/netcoreapp3.1/File Stream.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/bin/Debug/netcoreapp3.1/File Stream.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/bin/Debug/netcoreapp3.1/File Stream.dll
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/bin/Debug/netcoreapp3.1/File Stream.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/obj/Debug/netcoreapp3.1/File Stream.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/obj/Debug/netcoreapp3.1/File Stream.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/obj/Debug/netcoreapp3.1/File Stream.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/obj/Debug/netcoreapp3.1/File Stream.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/obj/Debug/netcoreapp3.1/File Stream.dll
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/obj/Debug/netcoreapp3.1/File Stream.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/File Stream/obj/Debug/netcoreapp3.1/File Stream.genruntimeconfig.cache

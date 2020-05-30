@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.genruntimeconfig.cache
