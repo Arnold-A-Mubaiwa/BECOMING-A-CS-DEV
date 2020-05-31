@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/bin/Debug/netcoreapp3.1/SortedDictionary
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/bin/Debug/netcoreapp3.1/SortedDictionary.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/bin/Debug/netcoreapp3.1/SortedDictionary.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/bin/Debug/netcoreapp3.1/SortedDictionary.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/bin/Debug/netcoreapp3.1/SortedDictionary.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/bin/Debug/netcoreapp3.1/SortedDictionary.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/obj/Debug/netcoreapp3.1/SortedDictionary.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/obj/Debug/netcoreapp3.1/SortedDictionary.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/obj/Debug/netcoreapp3.1/SortedDictionary.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/obj/Debug/netcoreapp3.1/SortedDictionary.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/obj/Debug/netcoreapp3.1/SortedDictionary.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/obj/Debug/netcoreapp3.1/SortedDictionary.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/SortedDictionary/obj/Debug/netcoreapp3.1/SortedDictionary.genruntimeconfig.cache

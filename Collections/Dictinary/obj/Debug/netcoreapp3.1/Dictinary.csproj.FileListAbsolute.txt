@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/bin/Debug/netcoreapp3.1/Dictinary
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/bin/Debug/netcoreapp3.1/Dictinary.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/bin/Debug/netcoreapp3.1/Dictinary.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/bin/Debug/netcoreapp3.1/Dictinary.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/bin/Debug/netcoreapp3.1/Dictinary.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/bin/Debug/netcoreapp3.1/Dictinary.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/obj/Debug/netcoreapp3.1/Dictinary.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/obj/Debug/netcoreapp3.1/Dictinary.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/obj/Debug/netcoreapp3.1/Dictinary.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/obj/Debug/netcoreapp3.1/Dictinary.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/obj/Debug/netcoreapp3.1/Dictinary.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/obj/Debug/netcoreapp3.1/Dictinary.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Dictinary/obj/Debug/netcoreapp3.1/Dictinary.genruntimeconfig.cache

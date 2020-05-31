@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/obj/Debug/netcoreapp3.1/Queue.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/obj/Debug/netcoreapp3.1/Queue.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/obj/Debug/netcoreapp3.1/Queue.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/obj/Debug/netcoreapp3.1/Queue.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/bin/Debug/netcoreapp3.1/Queue
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/bin/Debug/netcoreapp3.1/Queue.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/bin/Debug/netcoreapp3.1/Queue.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/bin/Debug/netcoreapp3.1/Queue.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/bin/Debug/netcoreapp3.1/Queue.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/bin/Debug/netcoreapp3.1/Queue.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/obj/Debug/netcoreapp3.1/Queue.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/obj/Debug/netcoreapp3.1/Queue.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Queue/obj/Debug/netcoreapp3.1/Queue.genruntimeconfig.cache

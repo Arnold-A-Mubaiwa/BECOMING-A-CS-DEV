@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/bin/Debug/netcoreapp3.1/SerializatioAndDeserialization
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/bin/Debug/netcoreapp3.1/SerializatioAndDeserialization.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/bin/Debug/netcoreapp3.1/SerializatioAndDeserialization.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/bin/Debug/netcoreapp3.1/SerializatioAndDeserialization.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/bin/Debug/netcoreapp3.1/SerializatioAndDeserialization.dll
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/bin/Debug/netcoreapp3.1/SerializatioAndDeserialization.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/obj/Debug/netcoreapp3.1/SerializatioAndDeserialization.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/obj/Debug/netcoreapp3.1/SerializatioAndDeserialization.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/obj/Debug/netcoreapp3.1/SerializatioAndDeserialization.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/obj/Debug/netcoreapp3.1/SerializatioAndDeserialization.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/obj/Debug/netcoreapp3.1/SerializatioAndDeserialization.dll
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/obj/Debug/netcoreapp3.1/SerializatioAndDeserialization.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/SerializatioAndDeserialization/obj/Debug/netcoreapp3.1/SerializatioAndDeserialization.genruntimeconfig.cache

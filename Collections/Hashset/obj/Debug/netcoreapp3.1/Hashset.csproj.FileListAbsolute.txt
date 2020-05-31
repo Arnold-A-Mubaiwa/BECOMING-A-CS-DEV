@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/obj/Debug/netcoreapp3.1/Hashset.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/obj/Debug/netcoreapp3.1/Hashset.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/obj/Debug/netcoreapp3.1/Hashset.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/obj/Debug/netcoreapp3.1/Hashset.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/bin/Debug/netcoreapp3.1/Hashset
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/bin/Debug/netcoreapp3.1/Hashset.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/bin/Debug/netcoreapp3.1/Hashset.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/bin/Debug/netcoreapp3.1/Hashset.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/bin/Debug/netcoreapp3.1/Hashset.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/bin/Debug/netcoreapp3.1/Hashset.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/obj/Debug/netcoreapp3.1/Hashset.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/obj/Debug/netcoreapp3.1/Hashset.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Hashset/obj/Debug/netcoreapp3.1/Hashset.genruntimeconfig.cache

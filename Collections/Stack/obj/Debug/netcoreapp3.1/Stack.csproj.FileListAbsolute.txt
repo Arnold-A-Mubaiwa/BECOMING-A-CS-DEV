@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/bin/Debug/netcoreapp3.1/Stack
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/bin/Debug/netcoreapp3.1/Stack.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/bin/Debug/netcoreapp3.1/Stack.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/bin/Debug/netcoreapp3.1/Stack.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/obj/Debug/netcoreapp3.1/Stack.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/obj/Debug/netcoreapp3.1/Stack.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/obj/Debug/netcoreapp3.1/Stack.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/obj/Debug/netcoreapp3.1/Stack.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/Stack/obj/Debug/netcoreapp3.1/Stack.genruntimeconfig.cache

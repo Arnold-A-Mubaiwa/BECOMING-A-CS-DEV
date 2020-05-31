@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/bin/Debug/netcoreapp3.1/LinkedList
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.genruntimeconfig.cache

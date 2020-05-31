@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/bin/Debug/netcoreapp3.1/FileStream2
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/bin/Debug/netcoreapp3.1/FileStream2.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/bin/Debug/netcoreapp3.1/FileStream2.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/bin/Debug/netcoreapp3.1/FileStream2.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/bin/Debug/netcoreapp3.1/FileStream2.dll
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/bin/Debug/netcoreapp3.1/FileStream2.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/obj/Debug/netcoreapp3.1/FileStream2.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/obj/Debug/netcoreapp3.1/FileStream2.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/obj/Debug/netcoreapp3.1/FileStream2.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/obj/Debug/netcoreapp3.1/FileStream2.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/obj/Debug/netcoreapp3.1/FileStream2.dll
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/obj/Debug/netcoreapp3.1/FileStream2.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/FileStream2/obj/Debug/netcoreapp3.1/FileStream2.genruntimeconfig.cache

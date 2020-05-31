@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/obj/Debug/netcoreapp3.1/SortedSet.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/obj/Debug/netcoreapp3.1/SortedSet.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/obj/Debug/netcoreapp3.1/SortedSet.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/obj/Debug/netcoreapp3.1/SortedSet.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/bin/Debug/netcoreapp3.1/SortedSet
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/bin/Debug/netcoreapp3.1/SortedSet.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/bin/Debug/netcoreapp3.1/SortedSet.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/bin/Debug/netcoreapp3.1/SortedSet.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/bin/Debug/netcoreapp3.1/SortedSet.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/bin/Debug/netcoreapp3.1/SortedSet.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/obj/Debug/netcoreapp3.1/SortedSet.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/obj/Debug/netcoreapp3.1/SortedSet.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Collections/SortedSet/obj/Debug/netcoreapp3.1/SortedSet.genruntimeconfig.cache
