@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/obj/Debug/netcoreapp3.1/ThreadPriority.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/obj/Debug/netcoreapp3.1/ThreadPriority.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/obj/Debug/netcoreapp3.1/ThreadPriority.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/obj/Debug/netcoreapp3.1/ThreadPriority.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/bin/Debug/netcoreapp3.1/ThreadPriority
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/bin/Debug/netcoreapp3.1/ThreadPriority.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/bin/Debug/netcoreapp3.1/ThreadPriority.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/bin/Debug/netcoreapp3.1/ThreadPriority.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/bin/Debug/netcoreapp3.1/ThreadPriority.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/bin/Debug/netcoreapp3.1/ThreadPriority.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/obj/Debug/netcoreapp3.1/ThreadPriority.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/obj/Debug/netcoreapp3.1/ThreadPriority.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadPriority/obj/Debug/netcoreapp3.1/ThreadPriority.genruntimeconfig.cache

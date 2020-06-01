@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SyncThreading/1.0.0": {
+        "runtime": {
+          "SyncThreading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SyncThreading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

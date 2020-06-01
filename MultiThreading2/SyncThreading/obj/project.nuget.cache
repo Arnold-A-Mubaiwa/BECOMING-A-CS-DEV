@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hu/nKe0vw0kyjjr15Z6q7JgBEbVNgJVYInsMXgSCZ8dn1Ll9oT6SqIobNuv0fCsMVMGc4d7W53/PlRI2c+haQ==",
+  "success": true,
+  "projectFilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/SyncThreading/SyncThreading.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
