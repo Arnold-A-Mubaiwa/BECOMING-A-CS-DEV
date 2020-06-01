@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/obj/Debug/netcoreapp3.1/ThreadSleep.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/obj/Debug/netcoreapp3.1/ThreadSleep.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/obj/Debug/netcoreapp3.1/ThreadSleep.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/obj/Debug/netcoreapp3.1/ThreadSleep.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/bin/Debug/netcoreapp3.1/ThreadSleep
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/bin/Debug/netcoreapp3.1/ThreadSleep.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/bin/Debug/netcoreapp3.1/ThreadSleep.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/bin/Debug/netcoreapp3.1/ThreadSleep.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/bin/Debug/netcoreapp3.1/ThreadSleep.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/bin/Debug/netcoreapp3.1/ThreadSleep.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/obj/Debug/netcoreapp3.1/ThreadSleep.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/obj/Debug/netcoreapp3.1/ThreadSleep.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadSleep/obj/Debug/netcoreapp3.1/ThreadSleep.genruntimeconfig.cache

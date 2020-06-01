@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2xMbw5dNqiSdobyJLMot37HKfADKKvm03V6W0HhA8/BnbC4+S5TovO5HKvrx6XuTz6a4Mtr//Fj7NcwNWYTdWQ==",
+  "success": true,
+  "projectFilePath": "/root/Desktop/C#/BECOMINGAC-DEV/Delegate/Delegate.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

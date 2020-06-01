@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7fPPEnANBjgP/HSXnWuez0MRg5IIPOwBveVoTU4JTq/n+Dld3zZbHx1XmegM5r4v36qGBlE7zZAgrntZhrKpw==",
+  "success": true,
+  "projectFilePath": "/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/Anonymus.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

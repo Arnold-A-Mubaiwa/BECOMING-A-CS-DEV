@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/bin/Debug/netcoreapp3.1/MultiThreading.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading/obj/Debug/netcoreapp3.1/MultiThreading.genruntimeconfig.cache

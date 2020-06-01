@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/bin/Debug/netcoreapp3.1/Anonymus
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/bin/Debug/netcoreapp3.1/Anonymus.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/bin/Debug/netcoreapp3.1/Anonymus.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/bin/Debug/netcoreapp3.1/Anonymus.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/bin/Debug/netcoreapp3.1/Anonymus.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/bin/Debug/netcoreapp3.1/Anonymus.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/obj/Debug/netcoreapp3.1/Anonymus.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/obj/Debug/netcoreapp3.1/Anonymus.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/obj/Debug/netcoreapp3.1/Anonymus.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/obj/Debug/netcoreapp3.1/Anonymus.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/obj/Debug/netcoreapp3.1/Anonymus.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/obj/Debug/netcoreapp3.1/Anonymus.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Anonymus/obj/Debug/netcoreapp3.1/Anonymus.genruntimeconfig.cache

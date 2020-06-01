@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/obj/Debug/netcoreapp3.1/Reflection.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/obj/Debug/netcoreapp3.1/Reflection.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/obj/Debug/netcoreapp3.1/Reflection.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/obj/Debug/netcoreapp3.1/Reflection.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/bin/Debug/netcoreapp3.1/Reflection
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/bin/Debug/netcoreapp3.1/Reflection.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/bin/Debug/netcoreapp3.1/Reflection.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/bin/Debug/netcoreapp3.1/Reflection.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/bin/Debug/netcoreapp3.1/Reflection.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/bin/Debug/netcoreapp3.1/Reflection.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/obj/Debug/netcoreapp3.1/Reflection.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/obj/Debug/netcoreapp3.1/Reflection.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Reflection/obj/Debug/netcoreapp3.1/Reflection.genruntimeconfig.cache

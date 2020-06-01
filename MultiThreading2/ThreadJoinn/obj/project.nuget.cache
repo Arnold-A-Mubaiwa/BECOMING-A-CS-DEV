@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bsGd600ivcAtmrPQcZSvqkfFX4WX0tzxjvQtjCcC1j9zXrqhLScimTITNgUDIVUKcFMw0vAOJIM1GSDXA7zrMA==",
+  "success": true,
+  "projectFilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/ThreadJoinn.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

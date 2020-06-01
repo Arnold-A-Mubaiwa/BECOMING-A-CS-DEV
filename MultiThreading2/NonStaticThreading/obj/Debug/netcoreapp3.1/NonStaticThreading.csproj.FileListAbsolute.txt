@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/bin/Debug/netcoreapp3.1/NonStaticThreading
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/bin/Debug/netcoreapp3.1/NonStaticThreading.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/bin/Debug/netcoreapp3.1/NonStaticThreading.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/bin/Debug/netcoreapp3.1/NonStaticThreading.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/bin/Debug/netcoreapp3.1/NonStaticThreading.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/bin/Debug/netcoreapp3.1/NonStaticThreading.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/obj/Debug/netcoreapp3.1/NonStaticThreading.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/obj/Debug/netcoreapp3.1/NonStaticThreading.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/obj/Debug/netcoreapp3.1/NonStaticThreading.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/obj/Debug/netcoreapp3.1/NonStaticThreading.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/obj/Debug/netcoreapp3.1/NonStaticThreading.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/obj/Debug/netcoreapp3.1/NonStaticThreading.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/NonStaticThreading/obj/Debug/netcoreapp3.1/NonStaticThreading.genruntimeconfig.cache

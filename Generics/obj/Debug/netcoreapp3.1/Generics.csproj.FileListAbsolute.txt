@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/obj/Debug/netcoreapp3.1/Generics.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/obj/Debug/netcoreapp3.1/Generics.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/obj/Debug/netcoreapp3.1/Generics.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/obj/Debug/netcoreapp3.1/Generics.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/bin/Debug/netcoreapp3.1/Generics
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/bin/Debug/netcoreapp3.1/Generics.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/bin/Debug/netcoreapp3.1/Generics.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/bin/Debug/netcoreapp3.1/Generics.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/bin/Debug/netcoreapp3.1/Generics.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/bin/Debug/netcoreapp3.1/Generics.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/obj/Debug/netcoreapp3.1/Generics.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/obj/Debug/netcoreapp3.1/Generics.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Generics/obj/Debug/netcoreapp3.1/Generics.genruntimeconfig.cache

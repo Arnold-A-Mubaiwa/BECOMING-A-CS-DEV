@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/bin/Debug/netcoreapp3.1/Delegate
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/bin/Debug/netcoreapp3.1/Delegate.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/bin/Debug/netcoreapp3.1/Delegate.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/bin/Debug/netcoreapp3.1/Delegate.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/obj/Debug/netcoreapp3.1/Delegate.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/obj/Debug/netcoreapp3.1/Delegate.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/obj/Debug/netcoreapp3.1/Delegate.dll
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/obj/Debug/netcoreapp3.1/Delegate.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/Delegate/obj/Debug/netcoreapp3.1/Delegate.genruntimeconfig.cache

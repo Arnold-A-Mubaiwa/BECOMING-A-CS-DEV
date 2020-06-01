@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WDTOWBDnLksV7i3PXQO+seclKrQwehFhra8ZYZM6IYjINWhuXlfmkrHSEvUqWGknb8WHuyefQFS5CmsaXUu7gQ==",
+  "success": true,
+  "projectFilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/DifferentTasks.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

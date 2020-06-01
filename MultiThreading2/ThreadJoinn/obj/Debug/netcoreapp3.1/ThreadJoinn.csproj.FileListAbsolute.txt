@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/bin/Debug/netcoreapp3.1/ThreadJoinn
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/bin/Debug/netcoreapp3.1/ThreadJoinn.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/bin/Debug/netcoreapp3.1/ThreadJoinn.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/bin/Debug/netcoreapp3.1/ThreadJoinn.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/bin/Debug/netcoreapp3.1/ThreadJoinn.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/bin/Debug/netcoreapp3.1/ThreadJoinn.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/obj/Debug/netcoreapp3.1/ThreadJoinn.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/obj/Debug/netcoreapp3.1/ThreadJoinn.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/obj/Debug/netcoreapp3.1/ThreadJoinn.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/obj/Debug/netcoreapp3.1/ThreadJoinn.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/obj/Debug/netcoreapp3.1/ThreadJoinn.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/obj/Debug/netcoreapp3.1/ThreadJoinn.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadJoinn/obj/Debug/netcoreapp3.1/ThreadJoinn.genruntimeconfig.cache

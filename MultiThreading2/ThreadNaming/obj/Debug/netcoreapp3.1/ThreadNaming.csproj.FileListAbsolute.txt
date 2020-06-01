@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/bin/Debug/netcoreapp3.1/ThreadNaming
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/bin/Debug/netcoreapp3.1/ThreadNaming.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/bin/Debug/netcoreapp3.1/ThreadNaming.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/bin/Debug/netcoreapp3.1/ThreadNaming.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/bin/Debug/netcoreapp3.1/ThreadNaming.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/bin/Debug/netcoreapp3.1/ThreadNaming.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/obj/Debug/netcoreapp3.1/ThreadNaming.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/obj/Debug/netcoreapp3.1/ThreadNaming.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/obj/Debug/netcoreapp3.1/ThreadNaming.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/obj/Debug/netcoreapp3.1/ThreadNaming.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/obj/Debug/netcoreapp3.1/ThreadNaming.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/obj/Debug/netcoreapp3.1/ThreadNaming.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/ThreadNaming/obj/Debug/netcoreapp3.1/ThreadNaming.genruntimeconfig.cache

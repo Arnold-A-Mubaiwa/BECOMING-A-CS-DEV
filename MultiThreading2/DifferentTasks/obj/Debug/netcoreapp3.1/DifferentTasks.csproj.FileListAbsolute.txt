@@ -1,0 +1,13 @@
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/bin/Debug/netcoreapp3.1/DifferentTasks
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/bin/Debug/netcoreapp3.1/DifferentTasks.deps.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/bin/Debug/netcoreapp3.1/DifferentTasks.runtimeconfig.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/bin/Debug/netcoreapp3.1/DifferentTasks.runtimeconfig.dev.json
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/bin/Debug/netcoreapp3.1/DifferentTasks.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/bin/Debug/netcoreapp3.1/DifferentTasks.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/obj/Debug/netcoreapp3.1/DifferentTasks.csprojAssemblyReference.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/obj/Debug/netcoreapp3.1/DifferentTasks.AssemblyInfoInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/obj/Debug/netcoreapp3.1/DifferentTasks.AssemblyInfo.cs
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/obj/Debug/netcoreapp3.1/DifferentTasks.csproj.CoreCompileInputs.cache
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/obj/Debug/netcoreapp3.1/DifferentTasks.dll
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/obj/Debug/netcoreapp3.1/DifferentTasks.pdb
+/root/Desktop/C#/BECOMINGAC-DEV/MultiThreading2/DifferentTasks/obj/Debug/netcoreapp3.1/DifferentTasks.genruntimeconfig.cache
