@@ -27,7 +27,7 @@ namespace SerializatioAndDeserialization
             bf.Serialize(fs, s);
             fs.Close();
             Console.WriteLine("File Serialized");
-            Console.ReadKey();
+            // Console.ReadKey();
 
             FileStream fs2 = new FileStream("Serial.txt", FileMode.OpenOrCreate);
             s = (Student)bf.Deserialize(fs2);
