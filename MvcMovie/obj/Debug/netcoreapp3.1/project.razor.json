@@ -1,5 +1,5 @@
 {
-  "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/MvcMovie.csproj",
+  "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/MvcMovie.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,73 +20521,73 @@
   "RootNamespace": "MvcMovie",
   "Documents": [
     {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Movies/Delete.cshtml",
-      "TargetPath": "Views\\Movies\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/HelloWorld/Welcome.cshtml",
-      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Movies/Index.cshtml",
-      "TargetPath": "Views\\Movies\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Movies/Details.cshtml",
-      "TargetPath": "Views\\Movies\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/HelloWorld/Index.cshtml",
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/HelloWorld/Index.cshtml",
       "TargetPath": "Views\\HelloWorld\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Movies/Create.cshtml",
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Movies/Create.cshtml",
       "TargetPath": "Views\\Movies\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Movies/Edit.cshtml",
-      "TargetPath": "Views\\Movies\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Shared/Error.cshtml",
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/Views/Home/Privacy.cshtml",
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Movies/Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Movies/Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Movies/Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Movies/Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/Views/HelloWorld/Welcome.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
       "FileKind": "mvc"
     }
   ],

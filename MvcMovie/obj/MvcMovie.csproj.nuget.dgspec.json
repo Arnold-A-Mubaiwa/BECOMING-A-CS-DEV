@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/MvcMovie.csproj": {}
+    "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/MvcMovie.csproj": {}
   },
   "projects": {
-    "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/MvcMovie.csproj": {
+    "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/MvcMovie.csproj",
+        "projectPath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/MvcMovie.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/root/Desktop/C#/BECOMINGAC-DEV/MvcMovie/obj/",
+        "outputPath": "/root/Desktop/C#/BECOMING-A-CS-DEV/MvcMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
