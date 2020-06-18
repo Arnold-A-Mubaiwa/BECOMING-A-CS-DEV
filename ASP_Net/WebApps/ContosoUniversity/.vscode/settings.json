@@ -1,0 +1,9 @@
+{
+    "sqltools.connections": [
+        {
+            "driver": "MSSQL",
+            "name": "mssql server",
+            "previewLimit": 50
+        }
+    ]
+}
