@@ -44,18 +44,18 @@ namespace ContosoUniversity.Models {
 
             var enrollments = new Enrollment[]
             {
-            new Enrollment{StudentID=1,CourseID=1050,Grade=Grade.A},
-            new Enrollment{StudentID=1,CourseID=4022,Grade=Grade.C},
-            new Enrollment{StudentID=1,CourseID=4041,Grade=Grade.B},
-            new Enrollment{StudentID=2,CourseID=1045,Grade=Grade.B},
-            new Enrollment{StudentID=2,CourseID=3141,Grade=Grade.E},
-            new Enrollment{StudentID=2,CourseID=2021,Grade=Grade.E},
-            new Enrollment{StudentID=3,CourseID=1050},
-            new Enrollment{StudentID=4,CourseID=1050},
-            new Enrollment{StudentID=4,CourseID=4022,Grade=Grade.E},
-            new Enrollment{StudentID=5,CourseID=4041,Grade=Grade.C},
-            new Enrollment{StudentID=6,CourseID=1045},
-            new Enrollment{StudentID=7,CourseID=3141,Grade=Grade.A},
+            new Enrollment{StudentID=1010,CourseID=1050,Grade=Grade.A},
+            new Enrollment{StudentID=1010,CourseID=4022,Grade=Grade.C},
+            new Enrollment{StudentID=1010,CourseID=4041,Grade=Grade.B},
+            new Enrollment{StudentID=1011,CourseID=1045,Grade=Grade.B},
+            new Enrollment{StudentID=1011,CourseID=3141,Grade=Grade.E},
+            new Enrollment{StudentID=1012,CourseID=2021,Grade=Grade.E},
+            new Enrollment{StudentID=1012,CourseID=1050,Grade=Grade.B},
+            new Enrollment{StudentID=1013,CourseID=1050,Grade=Grade.B},
+            new Enrollment{StudentID=1014,CourseID=4022,Grade=Grade.E},
+            new Enrollment{StudentID=1015,CourseID=4041,Grade=Grade.C},
+            new Enrollment{StudentID=1015,CourseID=1045,Grade=Grade.B},
+            new Enrollment{StudentID=1015,CourseID=3141,Grade=Grade.A},
             };
             foreach (Enrollment e in enrollments)
             {
