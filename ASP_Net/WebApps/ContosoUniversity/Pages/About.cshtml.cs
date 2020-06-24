@@ -1,24 +1,36 @@
-﻿using System;
+﻿using ContosoUniversity.Models.SchoolViewModels;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Extensions.Logging;
+using ContosoUniversity.Models;
 
 namespace ContosoUniversity.Pages
 {
     public class AboutModel : PageModel
     {
-        private readonly ILogger<AboutModel> _logger;
+        private readonly SchoolContext _context;
 
-        public AboutModel(ILogger<AboutModel> logger)
+        public AboutModel(SchoolContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public void OnGet()
+        public IList<EnrollmentDateGroup> Student { get; set; }
+
+        public async Task OnGetAsync()
         {
+            IQueryable<EnrollmentDateGroup> data =
+                from student in _context.Student
+                group student by student.EnrollmentDate into dateGroup
+                select new EnrollmentDateGroup()
+                {
+                    EnrollmentDate = dateGroup.Key,
+                    StudentCount = dateGroup.Count()
+                };
+
+            Student = await data.AsNoTracking().ToListAsync();
         }
     }
 }
