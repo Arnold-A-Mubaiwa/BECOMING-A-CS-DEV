@@ -20521,6 +20521,16 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/ContosoUniversity/Pages/Departments/Details.cshtml",
+      "TargetPath": "Pages\\Departments\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/ContosoUniversity/Pages/Departments/Create.cshtml",
+      "TargetPath": "Pages\\Departments\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/ContosoUniversity/Pages/Courses/Edit.cshtml",
       "TargetPath": "Pages\\Courses\\Edit.cshtml",
       "FileKind": "mvc"
@@ -20546,6 +20556,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/ContosoUniversity/Pages/Departments/Delete.cshtml",
+      "TargetPath": "Pages\\Departments\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/ContosoUniversity/Pages/Departments/Index.cshtml",
+      "TargetPath": "Pages\\Departments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/ContosoUniversity/Pages/Students/Index.cshtml",
       "TargetPath": "Pages\\Students\\Index.cshtml",
       "FileKind": "mvc"
@@ -20563,6 +20583,11 @@
     {
       "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/ContosoUniversity/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/ContosoUniversity/Pages/Departments/Edit.cshtml",
+      "TargetPath": "Pages\\Departments\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
