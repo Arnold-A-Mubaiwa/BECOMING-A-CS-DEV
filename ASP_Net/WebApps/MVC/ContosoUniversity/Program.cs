@@ -17,7 +17,7 @@ namespace ContosoUniversity
 
                 try{
                     var context = services.GetRequiredService<SchoolContext>();
-                    DbInitilizer.Initilize(context);
+                    DbInitializer.Initialize(context);
                 }
                 catch(Exception ex){
                     var logger = services.GetRequiredService<ILogger<Program>>();
