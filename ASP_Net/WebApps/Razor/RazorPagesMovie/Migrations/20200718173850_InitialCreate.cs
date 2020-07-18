@@ -16,7 +16,8 @@ namespace RazorPagesMovie.Migrations
                     Title = table.Column<string>(nullable: true),
                     ReleaseDate = table.Column<DateTime>(nullable: false),
                     Genre = table.Column<string>(nullable: true),
-                    Price = table.Column<double>(nullable: false)
+                    Price = table.Column<double>(type: "decimal(18, 2)", nullable: false),
+                    Rating = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
                 {
