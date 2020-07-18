@@ -147,3 +147,13 @@
 /root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Students/Details.cshtml.g.cs
 /root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Students/Edit.cshtml.g.cs
 /root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Students/Index.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Courses/Create.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Courses/Delete.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Courses/Details.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Courses/Edit.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Courses/Index.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Instructor/Create.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Instructor/Delete.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Instructor/Details.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Instructor/Edit.cshtml.g.cs
+/root/Desktop/C#/BECOMING-A-CS-DEV/ASP_Net/WebApps/MVC/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Views/Instructor/Index.cshtml.g.cs
